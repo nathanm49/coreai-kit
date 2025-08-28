@@ -5,3 +5,4 @@
 - Initial release
 - docs: add a note about the defaults
 - fix: clarify the setup steps
+- docs: fix a small wording issue
